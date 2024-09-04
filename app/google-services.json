@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1066632303907",
+    "project_id": "native-chat-b621c",
+    "storage_bucket": "native-chat-b621c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066632303907:android:0140347d3b24bef2392896",
+        "android_client_info": {
+          "package_name": "com.example.nativechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1RrWozEhsGpGUDfzFWorqWzm3Xpb66NU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
